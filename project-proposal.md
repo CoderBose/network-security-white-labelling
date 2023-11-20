@@ -6,7 +6,7 @@ The objective of this project is to investigate and identify white-labeled IoT d
 **Research Question**:
 Which smart plugs (or other IoT devices) on Amazon or Walmart might be white-labeled, potentially originating from the same OEM?
 
-**Methodology**:
+**Methodology**:  
 1. Web Scraping: Conduct an extensive web scraping process to collect data on smart plugs from Amazon and Walmart listings.  
 2. Data Cleaning and Formatting: Clean and format the scraped data to ensure consistency and prepare it for subsequent analysis.  
 3. Data Preparation / Pre-processing: Normalize and preprocess the data, splitting it into relevant categories for further analysis.  
@@ -16,14 +16,14 @@ Which smart plugs (or other IoT devices) on Amazon or Walmart might be white-lab
 7. Prepare Presentation for Class: Create a comprehensive presentation summarizing the research, methods, and findings.  
 8. Present in Class: Deliver a clear and engaging presentation to the class, sharing insights and potential implications.  
 
-**Skills Required**:
+**Skills Required**:  
 Web scraping  
 Basic NLP (utilizing APIs if necessary)  
 Image analysis (utilizing APIs if necessary)  
 Data analysis and interpretation  
 Presentation skills  
 
-**Timeline**:
+**Timeline**:  
 Step 1: Web Scrape – November 16 - November 20  
 Step 2: Data Cleaning and Formatting – November 21 - November 24  
 Step 3: Data Preparation / Pre-processing – November 25 - November 28  
