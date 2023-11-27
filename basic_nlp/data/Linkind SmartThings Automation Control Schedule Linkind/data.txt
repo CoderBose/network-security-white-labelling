@@ -1,0 +1,12 @@
+Easy Setup, One Control
+Skip downloading different manufacture's app
+Head straight to smart home platforms like Apple Home, Alexa, Google Home, SmartThings, or AiDot to control all your Matter devices
+Upgrade your home Version Update
+Timer and Schedule APP Remote control
+Name each plug and control them with ease using voice commands.
+Name Each Specailly Voice Control Separately Group Control All
+Reset the Device
+Press and hold the button
+Wait for 5 seconds until the red light remains on (The red light will flash for 1.5 to 5 seconds)
+Release the button
+Successfully restarted

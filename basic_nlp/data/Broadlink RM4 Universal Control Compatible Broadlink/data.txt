@@ -1,0 +1,35 @@
+BroadLink RM4 mini IR Universal Remote
+RM4 mini turns your smartphone into a universal remote and integrates control of home entertainment and automation devices in one easy-to-use app BroadLink. RM mini4 works with Alexa/Google Assistant/IFTTT. When paired with Alexa, it gives you hands-free voice control of your devices, like turning on/off your TV or turning up/down the volume via voice command.
+Supports 50,000+ IR controlled appliances, including TV, STB, DVD, Air Conditioner, Audio, PVR, etc. (IR only, no RF, compared with RM pro+ and RM4 pro).
+Large IR database: cover 98% IR remote function, update automatically on the cloud.
+Learning function: learn your remote controller if the appliance model is not available.
+Smaller but smarter: create multiple timers and scenes as you need.
+Support external sensor: RM4 mini supports BroadLink HTS2 Temperature and Humidity Sensor Cable (sold separately)
+Support Zero Configuration Powered by FastCon Technology
+Package includes: 1x RM4 mini Universal Remote, 1x USB Charger Cable, 1x Manual. (Not include Sensor Cable or Adapter)
+Brand New RM4 mini IR Universal Remote
+RM4 mini is an updated version of RM mini3. Different from RM mini3, RM4 mini is more compact in size. It supports a special sensor cable, which can real-time monitor and display room temperature and humidity in the App. The sensor cable is sold separately if needed.
+Supports Temperature & Humidity Sensor Cable (Sold Separately)
+Sensor Accessory HTS2 is our first USB sensor cable which can detect room temperature and humidity and display the data in the APP real-timely, which will be much easier to let you know your environment. For now, it only works with RM4 mini and RM4 pro, doesn't support RM mini3, RM pro+ or BestCon RM4C mini.
+Zero Configuration Powered by FastCon Technology
+RM4 mini supports Zero Configuration, after adding the first FastCon device to the app, as usual, when you power on other new FastCon devices and try to add, they will be automatically discovered and added without entering the password again
+New App BroadLink
+A new app named BroadLink is available now in the App Store and Google Play. It has enchanced user experiences in configuration and creating scenes than IHC. Besides, if you have an Android phone integrates IR emitter itself, you can use it to control your IR devices from BroadLink App to try it out before you make the purchase.
+Hands-Free Voice Control
+Compatible with Alexa to voice control your TV, STB, Air Conditioner and Fans, compatible with Google Home to voice control your Air Conditioner. Make sure the devices can be remotely controlled from external networks. In Amazon Alexa/Google Home Apps, enable the skill/service named BroadLink, link account and discover devices.
+Works With IFTTT
+IFTTT is the freeway to get all your apps and devices connect with each other. RM4 mini supports IFTTT to create more fun experiences with other apps and devices.
+Smarter AC - Control From Anywhere
+Make your life more convenient and accessible with Broadlink Remote Control. You can control your air conditioner anywhere any time, just turn on it when you way home and feel comfortable at moment you open the door.
+Schedule TV
+Schedule a time to turn on your TV to a specific channel to watch your favorite game or TV show. No more missing games or shows. to switch your TV to whatever channel you want to watch on time, don't miss any crucial games.
+Share Control with Family
+Families can share the remote with each other via invite and join function in the app. Sharing the devices and have fun to enjoy smarter ways of doing things in life together.
+Set up in 3 steps
+Download the new app BroadLink in App Store or Google Play (support IOS 8.0 / Android 4.0 and above) and configure the device according to the app instructions.
+Global Cloud Service and Learning Mode
+With Industry Top Level development in technology, BroadLink Patented Global Cloud Service technology and large-scale remote control databases enable fast and reliable operation.
+Learning mode available, your can define a remote and learn buttons if you couldn't find your remote in our database.
+About BroadLink
+As one of the leading IoT companies, BroadLink designs and manufactures the most technologically advanced electrical gadgets, lighting control and universal remote solutions. We also integrate with Amazon Alexa, Google Home, IFTTT to enable controlling and automating your home.
+BroadLink will continue to leverage its advantages in smart home solutions and bring more innovative products to the market.

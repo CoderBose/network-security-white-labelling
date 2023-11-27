@@ -1,0 +1,52 @@
+Minoston Z-Wave Smart Plug Mini Outlets Zwave Outlet (Z-Wave 700 Series)
+Z-Wave Mini Smart Plug (MP31Z)
+Model Number MP31Z
+Input 125VAC, 60Hz
+Frequency 908.42 MHz
+Loading 15A 1875W RESISTIVE OR GENERAL PURPOSE, 5A MAX 625W TUNGSTEN, 1/3 HP
+Temperature Range 32° F~104° F
+Note Indoor use in dry location
+Work with SmartThings
+Controlled By APP
+Add this zwave plug to your z-wave hub (sold separately) to achieve intelligent control.
+Z-Wave Compatibility APP Remote Control Voice Control Timer and Schedule Small but Poweful
+Pre-programmed & S2 Security
+This zwave outlet has pre-programming built-in, so the setup takes less than 1 minute. High-level security protects your privacy
+Advanced Settings
+The zwave plug supports advanced settings. If your hub supports advanced settings, you can customize the settings parameters.
+Technical Guide
+We're always here if you have any questions. We provide technical guide for issues such as product quality, additions, settings, etc.
+For Most Household Appliances
+This zwave plug is suitable for most household appliances, such as lamps, light strings, fans， e't
+Add Device
+Click the "+" and then Click "Add device" to add the smart outlet to SmartThings.
+Steps to Add Smart Outlet to SmartThings (Z-Wave Controller)
+1 Click "Add Device" 2 Scan the QR Code 3 Enter Paring Mode 4 Waiting 5 Success
+Is a hub required to add this zwave plug?
+Is there an OTA firmware update?
+How to reset the z wave smart plug?
+How can I troubleshoot the device by myself?
+Z-Wave Mini Smart Plug
+Z-Wave Mini Smart Plug
+Z-Wave Smart Dimmer Plug
+ZWave Energy Monitor Plug
+Z-Wave Mini Smart Plug
+Z-Wave Smart Dimmer Plug
+ZWave Energy Monitor Plug
+Z-Wave Outdoor Smart Plug
+Model Number
+MP31Z MP31ZD MP31ZP MP21Z MP21ZD MP21ZP MP22Z
+Power
+125VAC, 60Hz 125VAC, 60Hz 125VAC, 60Hz 125VAC, 60Hz 125VAC, 60Hz 125VAC, 60Hz 125VAC, 60Hz
+Loading
+15A 1875W 200W Incandescent 100W CFL/LED 15A 1875W 15A 1875W 200W Incandescent 100W CFL/LED 15A 1875W 15 Amp Max
+Temperature Range
+32° F-104° F(0°C-40°C) 32° F-104° F(0°C-40°C) 32° F-104° F(0°C-40°C) 32° F-104° F(0°C-40°C) 32° F-104° F(0°C-40°C) 32° F-104° F(0°C-40°C) -4° F-122° F (-20° C-50° C)
+Setting Timer
+✔ ✔ ✔ ✔ ✔ ✔ ✔
+Dimming Function
+✘ ✔ ✘ ✘ ✔ ✘ ✘
+Energy Monitoring
+✘ ✘ ✔ ✘ ✘ ✔ ✘
+zwave hub required
+✔ ✔ ✔ ✔ ✔ ✔ ✔

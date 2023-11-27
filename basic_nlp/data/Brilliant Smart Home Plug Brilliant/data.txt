@@ -1,0 +1,12 @@
+Smart Outlet Control
+Make floor lamps, desk lamps, fans, or any home appliance smart.
+Lighting Scenes & Automation
+Add plug-in lamps to lighting groups and scenes, or automate control of any plug-in device.
+Motion Control For Lights
+Automatically turn lamps on/off when motion is detected by Brilliant Control Panels and Smart Switches.
+Set Timers & Schedules
+Set your coffee and other plug-in devices to automatically turn on/off at specific times during the day.
+App Control
+Control plug-in devices from anywhere using the free Brilliant app for iOS and Android.
+Voice Control
+Works with Alexa, Google Assistant, and Apple HomeKit to control lamps, devices, and Brilliant scenes using your voice.

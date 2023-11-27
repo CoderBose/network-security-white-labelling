@@ -1,0 +1,24 @@
+Remarks：The Zigbee Strip Controller works with ZigBee Light Link Gateways/ like ,Lightify Hub,Homee,Smart Friends and Amazon Echo Plus,But this zigbee strip controller don't compatible with Wi-Fi Device of the 2nd Gen Echo dot and the 3nd Gen Echo,They must be Link to the Zigbee Hub (zigbee hub Bridge and Lightify Hub)
+
+Download App,Create your smart home lighting.
+This controller is the 1 ID Version.
+Amazing lighting effects when used with our 6pin RGBWW LED StripLight. ASIN:B07JKNFMC3
+LED Controller Specification:
+Input Voltage: DC12V-24V Output Max Current: 6A/CH
+Total Output Current: 15 A
+Max Load Power:180W(12V) / 360W(24V)
+Remote Distance:10~15 meters
+Connecting mode: common anode
+Controled Method:ZIGBEE ZLL
+Connection Mode:APP Control/Voice control
+Static Power consumption: <1W
+Size: L3.54 in*W1.9 in*H0.98 in
+Material:ABS
+RGBWW LED Strips 24V RGBWW LED Strips RGBCCT LED Strip Light RGBW LED Strip Light Strip Connector WiFi LED Controller
+Light Color RGB + 2300K-6000K white RGB + 2300K-6000K white RGB + 2700K-6000K white RGB + 6500K white 6Pin LED Strip Connector RGB CW WW LED Controller
+Dimmable 100 % - 0 % 100 % - 0 % 100 % - 0 % 100 % - 0 % LED Connector LED Controller
+Strip Length 32.8ft 16.4ft 16.4ft 16.4ft 16.4ft /
+Strip Width 12mm 12mm 12mm 10mm 12mm /
+Recommended power supply DC 24V 120W DC 12V 60W DC 12V 60W DC 12V 36W / /
+Input voltage DC 24V DC 12V DC 12V DC 12V / DC12-24V
+IP Rating IP20 IP20 IP54 IP54 IP20 IP20

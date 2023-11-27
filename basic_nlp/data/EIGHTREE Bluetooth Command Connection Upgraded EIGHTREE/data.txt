@@ -1,0 +1,5 @@
+Voice Connected
+Press the button of the plug till the LED blink and one command. Start to enjoy your smart life!
+Voice Connected Voice Control Alexa APP Control Timer & Schedule
+Tip: 1. Please place the BLE smart plug near Alexa for successful connection; 2. Once connected, it can form a network with other BLE plugs for signal propagation. This overcomes Bluetooth's limited individual device range.
+Alexa Device Required

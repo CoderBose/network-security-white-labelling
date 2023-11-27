@@ -1,0 +1,11 @@
+How to Pair with Our App
+1. Open the App and create your account. （Android5.0 or iOS 13.0+）
+2. Turn on the plug and put it close to the router when start pairing with APP.（Require 2.4G Wi-Fi for successful pairing）
+3.Press and hold the power button for 5-10 seconds until the indicator light will rapidly blink fast, EZ mode is available and wait for connected.
+Or try the second way, re-press and hold the on/off button for 5 seconds when the indicator blinking fast, then indicator light become blinking slow, AP mode is available and wait for connected.
+Note: When the socket changed network environment, you need to restore the factory settings (Press and hold on to the power button for about 5-10 seconds), and then reconnect to the network
+How to Pair with Amazon Alexa：
+1.Log in the APP on your phone and make sure the smart plug is online
+2.Log in Alexa account on your phone
+3.Tab "More">"Skills&Games">"Search" button to search the APP name
+4. Click "ENABLE TO USE" and then click the "Agree and link" button

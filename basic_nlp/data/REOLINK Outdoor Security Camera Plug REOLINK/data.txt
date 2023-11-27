@@ -1,0 +1,22 @@
+Get Alerts for What Matters
+Distinguish people/vehicles from other things and send you instant App pushes or email alerts.
+Smart Detection Dual-Band WiFi Custom Motion Zones Custom Settings Smart Playback
+Flexible Storage Options for 24/7 Backup
+Local & Remote Storage
+RLC-510WA supports 24/7 continuous, motion-triggered, and scheduled recording. Videos of all those 3 recording types can be saved into the microSD card (up to 256GB, not included) or the FTP server.
+Integrates with Reolink NVR
+If you want more storage space, a compatible Reolink NVR with expandable storage is a better choice to save your videos of 24/7 continuous recording.
+IP66 Waterproof
+This camera is IP66 rated to withstand any kind of weather conditions like freezing cold winters and heavy downpours.
+Work with Your Smart Home
+Use simple voice commands to check your home with Alexa or Google Assistant for greater convenience.
+Share with Your Family
+Up to 12 users can access the camera simultaneously. You can share its live view with family members and friends via Reolink App/Client.
+Have Fun with Time Lapse
+Want to enjoy the beauty from sunrise to sunset? This camera helps to capture long-term process in a short fun video.
+Can the camera be powered via PoE?
+How do I know if the camera is powered?
+Does the camera support audio recording?
+Does the camera come with an microSD card?
+Why does the camera stop recording to the microSD card?
+Comparison with Other Reolink Plug-in WiFi Cameras

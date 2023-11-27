@@ -1,0 +1,43 @@
+1%-100% Range Dimmable
+Dim the brightness from 1%-100%. Manage and control your entire smart home lighting as you need.
+Hands-Free Voice Control
+Use simple voice commands to control your lights with Apple HomeKit, Alexa, or Google Assistant.
+Voice Control Remote Control Works with Apple HomeKit Timer & Schedule Compatibility Test
+Millisecond Local Control
+Enjoy millisecond response and no drop-off with superfast local control when you're at home.
+Millisecond Local Control Offline Control Safety
+Sunrise/Sunset
+Schedule your smart dimmer switch to turn on/off automatically at specified times or according to Sunrise/Sunset.
+No Hub Required
+The Meross single pole dimmer switch can be directly connected to your 2.4GHz Wi-Fi network without a separate smart home hub.
+Single Pole Light Switch
+This single pole dimmer switch is only used to replace a single pole switch rather than a 3 way switch.
+Customized Scenes
+Set up customized scenes to link your switch and other smart devices to match any occasion, such as saying good night to turn off all the devices.
+Meross Smart Wi-Fi Switch Comparison
+Single Pole Dimmer Switch
+Smart Single Pole Switch
+Smart 3 Way Switch
+Dimmer Switch+Remote Kit
+3 Way Dimmer Switch Kit
+Smart Fan Light Switch
+Type
+Dimmable Switch ON/OFF Switch ON/OFF Switch Dimmable Switch Dimmable Switch Fan Light Switch
+Single Pole
+✔ ✔ ✘ ✔ ✘ ✔
+3 Way
+✘ ✘ ✔ ✘ ✔ ✘
+Support Fan Control
+✘ ✘ ✘ ✘ ✘ ✔
+Apple HomeKit Certified
+✔ ✔ ✔ ✔ ✔ ✔
+Works with Alexa/Google Home
+✔ ✔ ✔ ✔ ✔ ✔
+Schedules/Timers
+✔ ✔ ✔ ✔ ✔ ✔
+No Hub Required
+✔ ✔ ✔ ✔ ✔ ✔
+Wattage
+400W INC,150W Dimmable LED/CFL 400W INC, 150W LED/CFL 200W INC, 150W LED/CFL 400W INC,150W Dimmable LED/CFL 400W INC,150W Dimmable LED/CFL 300W INC,150W Dimmable LED/CFL
+Neutral Wire
+Required Required Required Required Required Required

@@ -1,0 +1,50 @@
+Auto Connection via Bluetooth
+Easier and stable for experiencing for managing your smart home. (Compatible Smart Life app too.)
+POPOTAN app is powered by Smart Life for making easier connections for all smart devices via Bluetooth Technology on your smartphone.
+Input: 110VAC, 60Hz 10A
+Max Output: 10A Max.
+Bluetooth Standard: BLE5.0 (compatible BLE4.0)
+APP supports operating system: Android 4.1 \ IOS 8.0 version and above.
+Aoycocr Mini Bluetooth Wifi Smart Plug
+The 1 Tap Bluetooth Connection allow you manage your smart home more easier.
+With the Aoycocr smart Bluetooth wifi plug let you can manage fans, lamps, and other small electronics up to 10 AMPs from anywhere with the POPOTAN App. Using simple voice commands with Alexa, Google Home Assistant conveniently from your smart phone. Enjoy Your Smart Life.
+The 1 tap bluetooth Wi-Fi connection
+Works with Amazon Alexa.
+Compatible with Google Assistant.
+Set Timer & Schedule.
+Create Group.
+Share to Families.
+Create Smart Scenario.
+Aoycocr Mini Smart Plug Main Functions
+Work with Amazon Alexa, Google Assistant
+You can use voice to control your smart devices with Alexa or Google Home Assistant.
+For example, say “Alexa, turn on the lamps”.
+Remotely Control Devices From Everywhere
+You can turn on/off connected home electric devices wherever you are at any time through your smart phone.
+Schedule/Timer Function On SmartPhone
+You can use the POPOTAN app to create schedules / timer to automatically power on/off your appliances.
+Create Smart Scenario On Smart Phones
+With POPOTAN app, expand your smart home ecosystem and enjoy automation experience, like group your smart plugs, smart dimmer plug, smart fairy lights create 'Scenes'.
+Connection Guide
+Connection Steps
+Step 1： Search "POPOTAN" on App store, Google Play or Scan the QR code on user manual to download and install it.
+Step 2：Set up your POPOTAN account and plug Aoycocr wifi smart plug into an AC outlet.
+Step 3：Add Device automatically via Bluetooth function.
+Note: All Aoycocr Devices are compatible with Smart Life / Tuya App at the same time.
+Wi-Fi Connection Tips
+Step 1: You can check the label on the router to see the frequency type, this plug outlet is suitable for "Dual Band" or "Single Band 2.4GHz".
+Step 2: The Wi-Fi frequency can be modified by logging into the "Management Interface" on the router. The frequency needs to be set to 2.4GHz in order to connect to the smart plug successfully.
+Amazon Alexa Tips
+Step 1: Log into the Alexa App, tap Skills, and search Popotan in the input box.
+Step 2: Click Enable skill, and input your POPOTAN SMART user name and password
+Step 3: Simply use voice commands like "Alexa, turn on the lights" to control your devices.
+Aoycocr Wifi Smart Plugs Aoycocr Wifi & Bluetooth Smart Plugs Aoycocr Smart Outdoor Dimmer Aoycocr Smart Candelabra Bulbs Aoycocr Smart Flood Bulb Smart Fairy lights
+Model X5P BX5P X19 Q2SCWM Q10SCWM MSL2
+Bluetooth Connection BLE5.0 compatible BLE4.0 BLE5.0 compatible BLE4.0 BLE5.0 compatible BLE4.0 BLE5.0 compatible BLE4.0 BLE5.0 compatible BLE4.0
+Wifi Conection 2.4Ghz 2.4Ghz 2.4Ghz 2.4Ghz 2.4Ghz 2.4Ghz
+Works with Amazon Alexa ✓ ✓ ✓ ✓ ✓ ✓
+Works with Google Home ✓ ✓ ✓ ✓ ✓ ✓
+Scheduling & Timer ✓ ✓ ✓ ✓ ✓ ✓
+Group Control ✓ ✓ ✓ ✓ ✓ ✓
+Create Smart Scenario ✓ ✓ ✓ ✓ ✓ ✓
+Music Sync ✓ ✓ ✓

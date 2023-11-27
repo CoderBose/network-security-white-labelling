@@ -1,0 +1,36 @@
+2 Independent Outlets
+2 Outlets WORK INDEPENDENTLY of one another
+Apple HomeKit Supported
+Easily Integrate your devices into your Apple ecosystem to control them more conveniently.
+Works with Apple HomeKit Voice Control Timer & Schedule Remote Control
+Customize Scenes
+The meross app lets you create custom scenes that will turn on/off a number of devices at the same time.
+Sunrise/Sunset
+Schedule your smart outdoor plug to turn on/off automatically at specified times or according to Sunrise/Sunset.
+IP44 Weatherproof
+Protect your smart outdoor plug against dust and splashes of water.
+Safety
+With fire-retardant housing design, you can use your outdoor smart plug with peace of mind.
+Offline Control
+When the Internet is down, you can still control smart plugs in Home Wi-Fi network via Meross app.
+Offline Control Millisecond Local Control Widely Application
+More smart devices from meross
+Matter smart Plug Mini
+Smart Wi-Fi Thermostat
+Fan Light Switch
+Temperature Controller
+Outdoor Smart Plug
+Outdoor Dimmer Plug
+Outdoor Wi-Fi Plug
+Support Apple Home
+✔ ✔ ✔ ✔ ✔ ✔ ✔
+Compatible devices
+Alexa/Google Home/SmartThings Alexa/Google Home/SmartThings Alexa/Google Home/SmartThings Alexa/Google Home/SmartThings Alexa/Google Home/SmartThings Alexa/Google Home/SmartThings Alexa/Google Home/SmartThings
+Support Matter
+✔ ✘ ✘ ✘ ✘ ✘ ✘
+Control Method
+App & Voice App & Voice App & Voice App & Voice App & Voice App & Voice App & Voice
+Schedule and Timer
+✔ ✔ ✔ ✔ ✔ ✔ ✔
+Sunrise and Sunset
+✔ ✔ ✔ ✔ ✔ ✘ ✔

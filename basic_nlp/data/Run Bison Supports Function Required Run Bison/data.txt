@@ -1,0 +1,20 @@
+Specifications:
+-Voice Control
+-APP Control
+-Group Control
+-Remote Control
+-Amazon Alexa
+-Google Assistant
+-WIFI Frequency: Wi-Fi 2.4G Hz Only
+-Voltage: AC 120V
+-Load Current: 10A
+-Power Output: 1200W
+-Working Temp: -20 - 50℃
+-ETL&FCC Listed
+-Dimension: L*W*H 1.9in*1.9in*1.2in
+Timer Setting
+Setup Your Personal Schedule For Daily Use.You can have your non-smart appliances ready automatically everyday.
+APP Control
+Controlling your smart light system by your APP.Setup different groups for your appliances in living room, dining room, bedroom and more for your convenience.
+No Hub Required
+Run Bison WiFi smart plug connects to your 2.4 GHz wifi easily and quickly.And our smart plug only supports 2.4 GHz network.

@@ -1,0 +1,20 @@
+Usage that goes beyond your imagination
+The SONOFF USB smart adaptor makes your ordinary USB devices smart. It works for super multi USB devices.
+No worries for overcharge
+Schedule a time for devices to ensure stop charging automatically after charged to 100%, keeping devices safe and avoid aging faster.
+Power On Status
+You can set the power-on state to: ON/OFF/KEEP.When the device is powered back on,the switch status of the device will be determined by the power-on state you set.
+Take it with you everywhere
+Pocket-sized and portable design makes the adaptor easier to carry.
+Share Control of Devices
+You can simply share control of your home appliances to your family via App so that they can also turn on/off the devices remotely. Its easy control feature also makes elder persons or children enjoy smart life without difficulty.
+No Hub Required
+The device works with 2.4GHz WiFi router without the need of extra hub or paid service needed.Doesn’t support 5GHz WiFi.
+Suitable for USB LED strip
+Make your non-smart USB LED strips smart and control it anytime, anywhere through eWeLink APP.
+Suitable for USB table lamp
+Make your non-smart USB table lamp smart and control it anytime, anywhere through eWeLink APP.
+Suitable for mobile phone charging
+You can charge your mobile phone, and it will automatically stop charging when the time is reached through the countdown function. Note: only support BC1.2 charging protocol,Max. 1A output for charging.
+eWelink APP Pairing
+eWelink APP Pairing

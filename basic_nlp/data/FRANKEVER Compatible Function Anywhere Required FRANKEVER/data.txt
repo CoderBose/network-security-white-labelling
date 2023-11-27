@@ -1,0 +1,50 @@
+Smart Voice Control
+Connect the Frankever Smart Wi-Fi Plug to Amazon Alexa for voice control. At the sound of your voice, you’ll be able to turn on appliances across the room as your hands are busy, or shut the bedroom light off without getting up.
+Maximum current: 10A.
+Rated voltage: 120V.
+Rated power: 1200W.
+Input voltage: 120~240V.
+APP supports operating system: Android 4.1 \ IOS 8.0 version and above.
+Build your smart life
+Frankever WiFi Smart Plug, high-tech intelligent life experience. No matter when and where, you can control home appliances through software, do wireless life, enjoy unlimited, start your smart life.
+Share control with your family
+You can program multiple devices for Group so that you can turn on/off devices at the same time; You can share devices with other families' accounts so that your families can also control the outlets.
+Works with Amazon Alexa and Google Assistant.
+Remote Control.
+Voice Control.
+Safe and Energy Saving.
+Set Schedules or Timer.
+Create Groups for Multiple Devices.
+Only 2.4G network is required.
+ETL/FCC/ROHS Certified.
+Frankever Wifi Smart Plug Main Functions
+Remote Control from Everywhere
+Once finished setting up Smart Life App through 2.4GHz Wi-Fi, you can wirelessly control your home devices from anywhere via 3G/4G/Wi-Fi network.
+With the remote access, you can check the real-time status of your device anytime and anywhere. You don’t need to worry about the forgetting devices anymore after you’re out.
+Smart Life App/TUYA app compatible with iOS and Android smart phone.You can use the free app (Smart Life/Tuya App/POPOTAN app) to create Timer/ Countdown for connected electronics based on your time routines. The users will control their decoration lights via timer functions after connecting these wireless plugs.
+Set Schedule or Timer
+You can use the free app (Smart Life/Tuya App) to create Timer/ Countdown for connected electronics based on your time routines. The users will control their decoration lights via timer functions after connecting these wireless plugs.
+Scheduling also helps lower your electricity bill by keeping power-hungry devices off when they you are not needed.
+Works well with Amazon Alexa and Google Assistant
+Compatible with Amazon Alexa/Google Home.
+Control your home electrics and appliances via a voice to Amazon Alexa or Google home,it will automatically turn on/off,make your life samrt and easier.
+Smart Life App Connection Steps
+Step 1: Scan the QR code in User Manual, sign up/in your Smart Life account.
+Step 2: Select "+" icon and "Electrical outlet"
+Step 3: Tap "Confirm indicator rapidly blink" and enter your home Wi-Fi Password.
+Step 4: Wait for it connecting successfully.
+The frequency needs to be set to 2.4GHz in order to connect to the smart plug successfully.
+Why failed to add device
+1. Please check whether device is powered on;
+2. Whether phone is connected via WiFi;
+3. Notice Each time to add device, reset WiFi to get device ready for configuration and make sure router is working properly.
+4. Check routers or related: If router is dual-band router,select 2.4G network and add device. You also need to enable router's broadcasting function.
+Set up wireless router: Set encryption method as WPA2-PSK and authorization type as AES, or set both as auto.
+5.To stay strong WiFi signal, please keep device and router within certain distance.
+6.Whether connected devices have reached the maximum number of router 's connections. If so, please try by turning off the WiFi connection of some device.
+7.Router's wireless MAC filtering function is enabled. Remove the device from the filter list and make sure that router is not prohibiting device from connection.
+Bluetooth String Lights Mini Smart Plug Smart IR Remote Control WIFI Sprinkler Water Timer WIFI Water Valve 23-Gauge Flat Speaker Wire
+Timing ✓ ✓ ✓ ✓
+App Control ✓ ✓ ✓ ✓ ✓
+Voice Control ✓ ✓ ✓ ✓
+Application Create a romantic atmosphere Enables ordinary appliances to be switched on and off remotely and intelligently Universal Remote Control Remote Smart Irrigator Remote smart water valve that controls water flow rate Make cluttered audio cables invisible

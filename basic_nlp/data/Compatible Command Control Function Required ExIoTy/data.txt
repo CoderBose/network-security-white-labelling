@@ -1,0 +1,14 @@
+Voice Control
+Free up your hands by using simple voice commands with Echo.
+Voice Control Remote Control BLE Mesh Function
+Count Down Timer
+Set a timer for your connected appliance to automatically turn off when the time runs out.
+Count Down Timer Schedule Your Home Grouping Function
+Simple To Set Up
+With Bluetooth simple setup, you can make your home smart in a snap. All you need is the Alexa app or Echo to control your outlet from anywhere.
+We want you to know：
+This is a Bluetooth Low Energy (BLE) Mesh smart plug,network connection requires Alexa Echo, and the smart plug connect to Alexa Echo via BLE Mesh.
+Check that your paired plug is within 30 ft (9 m) of your Alexa Echo. (if there is an indoor barrier, the distance cannot exceed 10 ft).
+Make sure the Echo is online before setting up the smart plug.Set the plugs one by one, and do not pairing multiple plugs at the same time.
+Exioty Smart Plug is optimized for simple setup and exclusive use with Alexa,and not support extra Apps or other voice assistants,don't compatible with Smart Life,Homekit,Google home and SmartThings.
+Exioty Smart Plug, Excllent IoT for you

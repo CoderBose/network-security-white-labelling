@@ -1,0 +1,31 @@
+Independent or Group Control
+The 2 sockets of each Smart Plug can be controlled independently or together. Also create on/off schedules using Govee Home App so your morning toast and coffee are always ready when you wake.
+Control with Your Voice
+Use simple voice commands to turn on/off all your plugged-in lights, devices, and appliances using Alexa or Google Assistant via WiFi.
+Schedules and Timers
+Create customized timers and daily schedules to automatically power on/off your electronic appliances, helping save on your monthly power bill.
+Group Control Function
+Using multiple Smart Plugs, program all your outlets together so all your appliances and devices switch on simultaneously right before you arrive home.
+Smart App Control
+Easily control all your home appliances powering on/off via WiFi or Bluetooth with the free, intuitive, and expansive Govee Home App.
+Compact Design
+A compact 2-in-1 horizontal design helps double available outlets without blocking others. Perfect for wireless outlet control and expansion of available sockets.
+Simple Setup with Govee Home App
+How to Connect with Govee Home App?
+Plug in Smart Plug
+Download Govee Home App.
+Open the app, tap the "+" icon in top right corner, and search "H5082"
+Tap the device icon and follow the instructions to complete pairing.
+Specification
+Rated Voltage: AC 120V
+Rated Current: 15A Resistive (Max)
+AC Frequency: 60Hz
+Max Total Output Power: 1800W
+Note: Users must create a new Govee Home App account or be logged in to use this Wi-Fi Plug.
+Govee Dual Smart Plug B5082 Govee Smart Plug B5080 Govee Dual Smart Plug B5082 Govee Smart Plug B5080 Govee Smart Plug B5083 Govee Smart WiFi Outdoor Plug H5160
+Number of Package 4-Pack 4-Pack 2-Pack 2-Pack 4-Pack 1-Pack
+Connection Way WiFi & Bluetooth WiFi & Bluetooth WiFi & Bluetooth WiFi & Bluetooth WiFi & Bluetooth WiFi & Bluetooth
+Max Current 15A 15A 15A 15A 10A 15A
+Rated Voltage AC 120V AC 120V AC 120V AC 120V AC 120V AC 125V
+Control Methods Voice+App Control Voice+App Control Voice+App Control Voice+App Control Voice+App Control Voice+App Control
+2.4GHz Wifi ONLY ✓ ✓ ✓ ✓ ✓ ✓

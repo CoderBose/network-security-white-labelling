@@ -1,0 +1,8 @@
+Wi-Fi Smart Plug 2-Outlet Wi-Fi Smart Plug Wi-Fi Smart Strip Outdoor 2-Outlet Wi-Fi Smart Plug
+Controlled Outlets 1 Controlled 2 Individually Controlled 3 Individually Controlled 2 Simultaneously Controlled
+USB Charging Ports None None 3 USB Ports None
+Max Amperage 15A 15A 15A 15A
+Alexa enabled ✓ ✓ ✓ ✓
+Google Assistant ✓ ✓ ✓ ✓
+Scheduling/Timers ✓ ✓ ✓ ✓
+IFTT ✓ ✓ ✓ ✓

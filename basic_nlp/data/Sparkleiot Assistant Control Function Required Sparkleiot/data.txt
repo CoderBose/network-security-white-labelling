@@ -1,0 +1,39 @@
+Sparkleiot Zigbee Smart Plug Sparkleiot Zigbee Smart Bulb Sparkleiot Zigbee Switch module
+Zigbee Protocol ✓ ✓ ✓
+APP Remote Control ✓ ✓ ✓
+Hub Required ✓ ✓ ✓
+Works with Alexa ✓ ✓ ✓
+Works with Google Home ✓ ✓ ✓
+
+Product Specification
+1. Plug specification: US standard
+2. Control type: WiFi 802.11 b/g/n 2.4G
+3. Software APP: Tuya
+4. Mobile phone version requirements: Android 4.0/IOS9.0+
+5. Product size: 30*48*52mm
+6. Maximum load current: 10A
+8. Input voltage range: 90-250V 50/60HZ
+9. Maximum power: 1100W
+10. Working temperature: -20°C-40°C
+11. Shell material: PC+ABS
+Tuya WiFi Smart Plug
+With mobile app"Tuya Smart" or "Smart Life",you can remote control all your household appliances on and off anywhere and anytime.
+Voice Control
+Group Control
+Schedule &Timer
+Easy Setup & 2.4GHz WiFi Connection
+Power-off Memory Function
+Smart Scene
+Timer Setting
+Set smart plugs turn on or off automatically at certain times which help you save on your electricity bill and extend product life.
+No Hub Required
+Only support 2.4 GHz WiFi.If your wifi router has both band of 2.4 and 5 GHz,turn off the 5 GHz band first, then turn it on after connecting.
+Easy Install and Use
+Download the Smart Life APP, connect your smart outlet plug with 2.4Ghz wifi,you can pair smart outlet successfully in minutes without barrier in smart home.
+Voice Control
+Smart plugs can be used with devices supported by Alexa and Google Assistant for easy voice control.
+APP Remote Control
+Tuya Wifi smart plug allow you control your home devices remotely at anytime anywhere.
+Group Control
+With a single tough of one button, you can manage multiple smart plugs simultaneously.
+Simple Setup with Smart Life App

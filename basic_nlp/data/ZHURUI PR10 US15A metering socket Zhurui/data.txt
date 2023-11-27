@@ -1,0 +1,41 @@
+Product Overview
+PR10 Power Recorder is displayed by 2.4 inch TFT color LCD, and it can measuring a variety of electrical equipment’s power, power factor, voltage, current, frequency, accumulated electricity consumption, accumulated electricity bill, accumulated electricity time, one shot electricity consumption, one shot electricity bill and one shot electricity time.Daily use of electricity and electricity bill will be recorded, you can see the form of a chart or list of historical records. PR10 is suitable for the measuring and monitor power consumption of the household, factory, office and other cases, and can be used to power on or power off a various electric equipment according your setting.
+2.4 - inch true color TFT LCD display.
+0.5FS - level measuring accuracy.
+8 Languages UI can freely to be chosen.
+23 currency units can be set freely.
+Date and time can be set, 5 date formats are supported.
+Automatic record historical data, which can be review in the form of a list or chart.
+Technical index
+Precision Class 0.5% FS
+Rated Voltage AC85V~265V
+Power Rating Less than 2.5W
+Current Range 0.005A~15A
+Power Range 0.1~3750W@250V
+Energy Range 0~999999kWh
+Bill Range 0~999999
+PF Range 0-1.0
+Time Range 0-999 days
+High quality material,High reliability,Preventing burning
+High reliability switching power supply
+Using high-reliability switching power supply, the input voltage range from AC85V to 265V.
+Flame retarding materials
+The plastic shell material is made of fire retardant material, Good flame retardant and anti impact performance, high strength.
+Heat resistant silicone suture
+The connection in the recorder is a high temperature resistant silicone wire with a cross-sectional area of 2.5 square millimeters, which has good flame retardancy and toughness.
+High current relay
+SONGLE 30A relay is used to improve the reliability of the system.
+History records
+Month-Chart
+Month-List
+Year-Chart
+Year-List
+PR10-E has 9 timers
+Timer 1 and Timer 2 are advanced timers, which can be specifically set to power on or off at a specific time on weekdays or weekends or to light up or turn off the device at a specific time on a specific date.
+Timers 3 to 9 are general-purpose timers. They can be set to turn the power on and off at a certain time, but they cannot specify to turn on or off the power on a specific date.
+Alarm and protection
+It has an alarm function and can be set to trigger an alarm when the voltage, the current, the power or the temperature exceeds alarm settings.
+It has an output protection function and can be configured to cut off the power when the voltage, the current, the power or the temperature exceeds the output protection value.
+The alarm limit and the output protection limit can be freely set.
+PR10-E(Not recommend) PR10-E-NEW EM20 EM20-ER EPM6700
+Ground pin reversed New design Max 120A Max 120A with external relay With external temperature sensor
