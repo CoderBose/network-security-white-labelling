@@ -1,9 +1,0 @@
-Not Just a Smart Plug! Monitoring the environment and switch on and off automatically.
-Part of the UbiBot Ecosystem
-Voice Control
-Timer Setting
-Set schedules for your electrical devices to turn on/off automatically.
-Run Time & Usage
-View run times to track usage and cut down on energy consumption.
-Away Mode
-Have UbiBot SP1 work for you when you’re out of town. Connecting a lamp to your SP1 can provide home security benefits.

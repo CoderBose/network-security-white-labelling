@@ -1,8 +1,0 @@
-Feit Electric POWERSTRIP/WiFi Work with Alexa and Google Home
-This Wi-Fi enabled smart plug turns any device into a smart device. Four outlets and 4 USB ports allow control over plugged-in devices from anywhere together with one smart plug. Ideal for home appliances, lights and more. Control from anywhere - turn on or off, set schedules or timers with an intuitive smartphone app. Combine devices together for unified control with one single tap. An LED indicator lights up when the plugged device is connected. Use simple voice commands with Alexa or Google Assistant, or Siri shortcuts.
-Features
-Control home devices from anywhere using your smartphone
-Power on or off, set groups and schedules
-Easy setup with no hub required
-Compatible with Alexa, Google Assistant & Siri Shortcuts
-Minimum system requirements for the app are devices running iOS 9.3 or Android 4.4
